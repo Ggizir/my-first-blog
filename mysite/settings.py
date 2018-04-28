@@ -25,7 +25,7 @@ SECRET_KEY = 'adh&9l@6b-#6#r%o2xdzmx7+*nl#q!nli^m5jyo6#-+v17x7b9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'http://nikhalyna.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nikhalyna.pythonanywhere.com']
 
 
 # Application definition
